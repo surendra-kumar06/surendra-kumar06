@@ -6,7 +6,10 @@
 </div>
 
 ###
-![devgif](https://github.com/surendra-kumar-07/surendra-kumar-07/assets/146053122/1fb70b30-41e7-4bc9-8f1f-c05c51e40b8f)
+
+![dev_gif](https://github.com/surendra-kumar-07/surendra-kumar-07/assets/146053122/6296bebe-9465-4b38-99c9-09a84019de67)
+
+
 ###
 
   <h3>Skills</h3>
